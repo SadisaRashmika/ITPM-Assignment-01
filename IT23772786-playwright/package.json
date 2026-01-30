@@ -10,5 +10,8 @@
   "devDependencies": {
     "@playwright/test": "^1.58.0",
     "@types/node": "^25.1.0"
+  },
+  "dependencies": {
+    "papaparse": "^5.5.3"
   }
 }
