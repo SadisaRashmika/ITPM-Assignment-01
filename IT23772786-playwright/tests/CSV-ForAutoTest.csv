@@ -1,0 +1,168 @@
+﻿TC ID,Test case name,Input,Expected output
+Pos_Fun_0001,Convert an interrogative sentence with a place name,oyaage gama Colombo needha?,ඔයාගෙ ගම Colombo නේද?
+,,,
+,,,
+,,,
+Pos_Fun_0002,Convert a medium-length compound sentence with context,yaaluvo okkomalaa ekata set velaa api iridhata kosthaapal punNYAsooma film eka balanna yamudha? huGA kaalekin api set unee naethi nisaa.,යාලුවො ඔක්කොමලා එකට සෙට් වෙලා අපි ඉරිදට කොස්තාපල් පුන්ඤසෝම film එක බලන්න යමුද? හුඟ කාලෙකින් අපි සෙට් උනේ නැති නිසා.
+,,,
+,,,
+,,,
+Pos_Fun_0003,Convert a short imperative command,api raeeta pizza order karamu.,අපි රෑට pizza order කරමු.
+,,,
+,,,
+,,,
+Pos_Fun_0004,Convert a medium-length compound sentence with currency and product details,uBA oya gaththa Nike sapaththu dheka nam Rs:40000 k vatinava kiyala peenne naee. haebaeyi oya gaththa T-Shirt eka nam  6000 kata pattama laabayi. anika material ekath supiri. maath gannawa oya jaathiyema ekak.,උඹ ඔය ගත්ත Nike සපත්තු දෙක නම් Rs:40000 ක් වටිනව කියල පේන්නෙ නෑ. හැබැයි ඔය ගත්ත T-Shirt එක නම්  6000 කට පට්ටම ලාබයි. අනික material එකත් සුපිරි. මාත් ගන්නව ඔය ජාතියෙම එකක්.
+,,,
+,,,
+,,,
+Pos_Fun_0005,Convert a medium-length positive sentence with emphasis for motivational context,api kohoma hari mahansi velaa mee assignment eka hoDHAta karalaa A ekak gamu.,අපි කොහොම හරි මහන්සි වෙලා මේ assignment එක හොඳට කරලා A එකක් ගමු.
+,,,
+,,,
+,,,
+Pos_Fun_0006,Convert a medium-length negative sentence with emotional content,"ayiyoo ban, mata baee ooyi eyaa nathuva jiivath venna. uBAla okkoma dhannavane mama eyaata magee paNAtath vadaa aadharea kalaa kiyalaa.","අයියෝ බන්, මට බෑ ඕයි එයා නතුව ජීවත් වෙන්න. උඹල ඔක්කොම දන්නවනෙ මම එයාට මගේ පණටත් වඩා ආදරේ කලා කියලා."
+,,,
+,,,
+,,,
+Pos_Fun_0007,"Convert a medium-length sentence with name, time format, abbreviations, and negation",Saman 7.30 a.m. vedhdhi varen kiyala mata SMS ekak dhaala thibbaa. uu SLIIT ID eka aragena gihin naehaelu.,සමන් 7.30 a.m. වෙද්දි වරෙන් කියල මට SMS එකක් දාල තිබ්බා. ඌ SLIIT ID එක අරගෙන ගිහින් නැහැලු.
+,,,
+,,,
+,,,
+Pos_Fun_0008,"Convert a formal sentence containing date, quantity, and unit of measurement",2025/01/05 dhina kamal mahathaa sahal 100kg parithYaaga karana ladhi.,2025/01/05 දින කමල් මහතා සහල් 100kg පරිත්‍යාග කරන ලදි.
+,,,
+,,,
+,,,
+Pos_Fun_0009,Convert past action narrative with multiple subjects,oyaalata gamee kaeema kaapu kaalayak mathaka naee kivva nisaa 4 dhenekta aethi venna loku bath ekak aran aavaa. adha aethi venakan kaapanla.,ඔයාලට ගමේ කෑම කාපු කාලයක් මතක නෑ කිව්ව නිසා 4 දෙනෙක්ට ඇති වෙන්න ලොකු බත් එකක් අරන් ආවා. අද ඇති වෙනකන් කාපන්ල.
+,,,
+,,,
+,,,
+Pos_Fun_0010,Convert an informal slang sentence expressing support,"anivaa ban, magea full support eka dhenavaa.","අනිවා බන්, මගේ full support එක දෙනවා."
+,,,
+,,,
+,,,
+Pos_Fun_0011,"Convert an informal sentence with command, condition, and interrogative form","uBa wedding ekata ennama oone. aave naethnam aaye kathaa karanna epaa, anivaa enava needha?","උඹ wedding එකට එන්නම ඕනෙ. ආවෙ නැත්නම් ආයෙ කතා කරන්න එපා, අනිවා එනව නේද?"
+,,,
+,,,
+,,,
+Pos_Fun_0012,Convert short conversation with line breaks,"eyaa lassanayi nea?
+
+oyaa hithanavadha maath ekka yaaLu veyi kiyala? ","එයා ලස්සනයි නේ?
+
+ඔයා හිතනවද මාත් එක්ක යාළු වෙයි කියල? "
+,,,
+,,,
+,,,
+Pos_Fun_0013,Convert sentence with past and future tense,5 vasaredhi mama hithan hitiye doctor kenek venna. eeth thava avurudhu 2kin mama software-engineer kenek venavaa.,5 වසරෙදි මම හිතන් හිටියෙ doctor කෙනෙක් වෙන්න. ඒත් තව අවුරුදු 2කින් මම software-engineer කෙනෙක් වෙනවා.
+,,,
+,,,
+,,,
+Pos_Fun_0014,Convert multi-line poem with multiple spaces,"mama kaviyak livvaa. lassanayidha kiyannakoo? 
+yaaLuvo api     yaaLuvoo 
+api okkoma      yaaLuvoo          oyayi mamayi  yaaLuvoo 
+mamayi oyayi   yaaLuvoo","මම කවියක් ලිව්වා. ලස්සනයිද කියන්නකෝ? 
+යාළුවො අපි     යාළුවෝ 
+අපි ඔක්කොම      යාළුවෝ                ඔයයි මමයි  යාළුවෝ 
+මමයි ඔයයි   යාළුවෝ"
+,,,
+,,,
+,,,
+Pos_Fun_0015,Convert imperative sentence indicating prohibition,Chaayaaruupa gaeniima sapuraa thahanam!,ඡායාරූප ගැනීම සපුරා තහනම්!
+,,,
+,,,
+,,,
+Pos_Fun_0016,Convert long historical narrative paragraph in Singlish,"mama adha oya Lamayinta kiyala dhenna yanne raja kaale sidhdha una dheyak. ee kaale rajathumaava hinassavanna, sathutu karavanna kiyana eka thamaa andhareege rassaava unee. dhaen vagee nemei rajathumaa eekata gevala thiyenne kahavanu valin kiyalayi apee paraNa poth vala thiyenne. ee kaale godak mahansi velaa vaeda karala jiivath una minissu maasema vaeda karalath kahavanu hoyanna amaaruyilu.","මම අද ඔය ළමයින්ට කියල දෙන්න යන්නෙ රජ කාලෙ සිද්ද උන දෙයක්. ඒ කාලෙ රජතුමාව හිනස්සවන්න, සතුටු කරවන්න කියන එක තමා අන්දරේගෙ රස්සාව උනේ. දැන් වගේ නෙමේ රජතුමා ඒකට ගෙවල තියෙන්නෙ කහවනු වලින් කියලයි අපේ පරණ පොත් වල තියෙන්නෙ. ඒ කාලෙ ගොඩක් මහන්සි වෙලා වැඩ කරල ජීවත් උන මිනිස්සු මාසෙම වැඩ කරලත් කහවනු හොයන්න අමාරුයිලු."
+,,,
+,,,
+,,,
+Pos_Fun_0017,Convert imperative sentence indicating prohibition,"apee IT Faculty ekee kollek battle game ekak haedhuvaa. eeke apita puluvan Facebook, Instagram vagee social media app ekak harahaa login venna. ee game ekee membership eka tika tika gevanna hadhaagannath puluvan. Play karanna 6GB RAM ekak thibba nam aethi. 
+api ee game eka play karanna kaemathi nam ee kolla kiyanna kivva Free-Pass ekak dhaala dhennam kiyalath kivva yaaLu Fit ekata. Api gahanava nam gahamu. mama okay.","අපේ IT Faculty එකේ කොල්ලෙක් battle game එකක් හැදුවා. ඒකෙ අපිට පුලුවන් Facebook, Instagram වගේ social media app එකක් හරහා login වෙන්න. ඒ game එකේ membership එක ටික ටික ගෙවන්න හදාගන්නත් පුලුවන්. Play කරන්න 6GB RAM එකක් තිබ්බ නම් ඇති. 
+අපි ඒ game එක play කරන්න කැමති නම් ඒ කොල්ල කියන්න කිව්ව Free-Pass එකක් දාල දෙන්නම් කියලත් කිව්ව යාළු Fit එකට. අපි ගහනව නම් ගහමු. මම okay."
+,,,
+,,,
+,,,
+Pos_Fun_0018,Convert polite request with cause–effect sentence,karuNaakaralaa Sir ta puluvandha apita vaedipura lakuNak dhekak hari dhenna? Sir ehema dhunnoth magee GPA eka vaedi karaganna try karanna puluvan.,කරුණාකරලා Sir ට පුලුවන්ද අපිට වැඩිපුර ලකුණක් දෙකක් හරි දෙන්න? Sir එහෙම දුන්නොත් මගේ GPA එක වැඩි කරගන්න try කරන්න පුලුවන්.
+,,,
+,,,
+,,,
+Pos_Fun_0019,Report bank scam with OTP in complex sentence,"oyaala kivva vageema Sunimalge Bank Account eka hack karalaa. ee moodayaa OTP eka dhiila horekta, gift ekak dhenava kiyala ravattala thiyenne.","ඔයාල කිව්ව වගේම සුනිමල්ගෙ Bank Account එක hack කරලා. ඒ මෝඩයා OTP එක දීල හොරෙක්ට, gift එකක් දෙනව කියල රවට්ටල තියෙන්නෙ."
+,,,
+,,,
+,,,
+Pos_Fun_0020,Convert casual remark with future plan sentence,appatasiri ovne!! ee 6 vaedhuna nam edhaa match eka Easy.,අප්පටසිරි ඔව්නෙ!! ඒ 6 වැදුන නම් එදා match එක Easy.
+,,,
+,,,
+,,,
+Pos_Fun_0021,Convert purchase request with measurements and currency,mama ara kivva yaaLuvaa 10cm valata vadaa dhiga gold-fish maaluvanta USD 20 gaane January 19 ta kalin gevanna kaemathiyi kivvaa.,මම අර කිව්ව යාළුවා 10cm වලට වඩා දිග gold-fish මාලුවන්ට USD 20 ගානෙ January 19 ට කලින් ගෙවන්න කැමතියි කිව්වා.
+,,,
+,,,
+,,,
+Pos_Fun_0022,Convert casual remark with future plan sentence,appatasiri ovne!! ee 6 vaedhuna nam edhaa match eka Easy.,අප්පටසිරි ඔව්නෙ!! ඒ 6 වැදුන නම් එදා match එක Easy.
+,,,
+,,,
+,,,
+Pos_Fun_0023,Convert short birthday greeting with informal phrasing,"adoo, ""Happy Birthday machan !!"" party oonee.","අඩෝ, ""Happy Birthday මචන් !!"" party ඕනේ."
+,,,
+,,,
+,,,
+Pos_Fun_0024,Convert short daily message with informal abbreviation,"uBa mata 25 venidha thibba Zoom clz eka gaena msg ekak dhammayi dhanneth, LOL!","උඹ මට 25 වෙනිද තිබ්බ Zoom cලz එක ගැන ම්ස්ග් එකක් දම්මයි දන්නෙත්, LOL!"
+,,,
+,,,
+,,,
+,,,
+Neg_Fun_0001,Incorrect transliteration of English past tense word,"""Run"" ekee past tense ""ran"" kiyala kiyanna kivvaa.","""Run"" එකේ past tense ""ran"" කියල කියන්න කිව්වා."
+,,,
+,,,
+,,,
+Neg_Fun_0002,Incorrect handling of numeric suffix in Singlish input,2000n passe kiya kiya apita banina aya dhaen Uncles la aeththatama baeluvoth.,2000න් පස්සෙ කිය කිය අපිට බනින අය දැන් Uncles ල ඇත්තටම බැලුවොත්.
+,,,
+,,,
+,,,
+Neg_Fun_0003,Incorrect handling of minor spelling typo in common word,onna kivva vageema apee gedhara thama adha party eka. 5 vedhdhi gedhra varem.,ඔන්න කිව්ව වගේම අපේ ගෙදර තම අද party එක. 5 වෙද්දි ගෙදර වරෙම්.
+,,,
+,,,
+,,,
+Neg_Fun_0004,Incorrect handling of minor spelling typo in common word,"eyaa rata giyanee, maath yanawa labana maasee. eheta gihin api hambawenawa. iita passe api wedding ekath ehedhima ganna hithanawa.","එයා රට ගියනේ, මාත් යනව ලබන මාසේ. එහෙට ගිහින් අපි හම්බවෙනව. ඊට පස්සෙ අපි wedding එකත් එහෙදිම ගන්න හිතනව."
+,,,
+,,,
+,,,
+Neg_Fun_0005,Misinterpretation of Singlish pronoun as English word,"""Man aasayi piyaaBanna"" movie ekata sammaana 14k laebuNaa kiyala iiye news vala kivvaa. ","""මන් ආසයි පියාඹන්න"" movie එකට සම්මාන 14ක් ලැබුණා කියලා ඊයේ news වල කිව්වා."
+,,,
+,,,
+,,,
+Neg_Fun_0006,Singlish character not converted to Sinhala,"uu nayek kiyala kivve nikan nemeyi. dhakke naedhdha uge ""pa"" akura? ","ඌ නයෙක් කියල කිව්වෙ නිකන් නෙමෙයි. දක්කෙ නැද්ද උගෙ ""ප"" අකුර? "
+,,,
+,,,
+,,,
+Neg_Fun_0007,Joined words (missing spaces) cause incorrect transliteration,"""shithasRUthuva"" kiyalaekaklQQkaveththibbanamsupirine?","""ශිතසෘතුව"" කියල එකක් ලංකවෙත් තිබ්බ නම් සුපිරි නේ?"
+,,,
+,,,
+,,,
+Neg_Fun_0008,Detect missing word in simple sentence,mama bath nuvan ekka.,මම බත් කෑවා නුවන් එක්ක.
+,,,
+,,,
+,,,
+Neg_Fun_0009,Incorrect transliteration of long English words / repeated letters,"eyaa mata ""I Love Youuuuuu"" kiyalaa msg ekak dhaala thibbaa. maath eyaata ""I Love You Tooooooo"" kiyala a dhammaa.","එයා මට ""I Love Youuuuuu"" කියලා ම්ස්ග් එකක් දාල තිබ්බා. මාත් එයාට ""I Love You Tooooooo"" කියල a දම්මා."
+,,,
+,,,
+,,,
+Neg_Fun_0010,Incorrect transliteration of English pronouns in mixed sentences,"""I am a boy. My name is Saman."" ooka thamayi eyaa kivve mata call eken.","""I am a boy. My name is Saman."" ඕක තමයි එයා කිව්වෙ මට call එකෙන්."
+,,,
+,,,
+,,,
+,,,
+Pos_UI_0001,Sinhala output updates automatically in real-time,amara thaama mal kadanavaa.,අමර තාම මල් කඩනවා.
+,,,
+,,,
+,,,
+Pos_UI_0002,Sinhala output updates automatically in real-time,"oyaa enavadha? 
+
+kanna yanna.","ඔයා එනවද? 
+
+කන්න යන්න."
+,,,
+,,,
+,,,
+,,,
+Neg_UI_0001,Lack of dark mode may reduce readability for some users,Standard Singlish input in light theme,Text should be clearly readable and comfortable for long typing sessions
+,,,
+,,,
+,,,
